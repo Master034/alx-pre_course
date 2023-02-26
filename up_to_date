@@ -1,2 +1,1 @@
-git fetch
-git merge origin/master
+touch up_to_date
